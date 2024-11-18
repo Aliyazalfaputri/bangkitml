@@ -1,3 +1,3 @@
-gcloud app deploy app.yaml --project [PROJECT ID]
+gcloud app deploy app.yaml --project submissionmlgc-aliya
 
 gcloud app browse

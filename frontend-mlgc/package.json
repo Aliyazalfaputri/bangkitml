@@ -1,7 +1,7 @@
 {
-  "name": "Asclepius",
+  "name": "aliyazalfa",
   "version": "1.0.0",
-  "description": "Asclepius adalah sistem pemeriksaan kulit secara otomatis",
+  "description": "Belajar Penerapan Machine Learning dengan Google Cloud",
   "scripts": {
     "start": "http-server ."
   },

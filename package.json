@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@hapi/hapi": "^21.3.12",
+    "dotenv": "^16.4.5",
+    "rimraf": "^6.0.1"
+  }
+}

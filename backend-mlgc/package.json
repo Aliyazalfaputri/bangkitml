@@ -1,5 +1,5 @@
 {
-	"name": "serta-mulia",
+	"name": "aliya-zalfa",
 	"version": "1.0.0",
 	"description": "",
 	"scripts": {
@@ -13,7 +13,7 @@
 	"dependencies": {
 		"@google-cloud/firestore": "^7.1.0",
 		"@hapi/hapi": "^21.3.2",
-		"@tensorflow/tfjs-node": "3.21.1",
+		"@tensorflow/tfjs": "^4.10.0",  
 		"dotenv": "^16.3.1"
 	},
 	"devDependencies": {

@@ -1,6 +1,6 @@
 /** @format */
 
-const tf = require("@tensorflow/tfjs-node");
+const tf = require("@tensorflow/tfjs");
 
 async function loadModel() {
 	const modelPath = process.env.APP_ENV == "local" ? process.env.LOCAL_MODEL_URL : process.env.MODEL_URL;

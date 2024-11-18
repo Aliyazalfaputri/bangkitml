@@ -1,4 +1,4 @@
-gcloud builds submit --tag gcr.io/[PROJECT ID]
+gcloud builds submit --tag gcr.io/submissionmlgc-aliya
 
 gcloud run deploy backend-mlgc \
 --image gcr.io/tensile-psyche-440211-b4/backend-mlgc \
